@@ -1,0 +1,9 @@
+*.csv
+*.ipynb_checkpoints/
+*Glasgow/
+*NoiseModelling_4.0.5/
+*Traffic_Data/
+*NoiseModelling_4.0.0_without_gui/
+*NoiseCapture/
+*.zip
+*Gov_Scot_Noise_Data/
