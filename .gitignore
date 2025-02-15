@@ -7,3 +7,12 @@
 *NoiseCapture/
 *.zip
 *Gov_Scot_Noise_Data/
+*Edinburgh/
+*QGIS_Maps/
+*Scotgov_Noise_LDEN/
+*U_Traffic/
+*U_Wind/
+*SH_process_request.ipynb
+*utils.py
+*__pycache__/
+*MISC/
