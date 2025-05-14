@@ -18,3 +18,24 @@ cache/
 *[ARCHIVED]env_dta_processing.ipynb
 NoiseCapture/
 __pycache__/
+NoiseModelling_5.0.0_without_gui/
+NoiseModelling_5.0.0_with_gui/
+*.yml
+*.txt
+.ipynb_checkpoints/
+__pycache__/
+2011_dz/
+cache/
+data/
+Edinburgh/
+Extra_Scripts/
+Glasgow/
+MISC/
+NoiseCapture
+NoiseModelling/
+QGIS_Maps/
+Results/
+Scotgov_Noise_LDEN/ 
+SIMD Data/
+U_Traffic/
+U_Wind/
