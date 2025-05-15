@@ -22,7 +22,7 @@ NoiseModelling_5.0.0_without_gui/
 NoiseModelling_5.0.0_with_gui/
 *.yml
 *.txt
-.ipynb_checkpoints/
+**.ipynb_checkpoints/
 __pycache__/
 2011_dz/
 cache/
