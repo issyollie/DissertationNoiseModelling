@@ -12,7 +12,7 @@ Despite the projected increase in noise pollution due to urban growth and mobili
 ![Dissertation Data Processing Workflow](images/workflow.jpeg)
 *Figure: Sample modelled seasonal road traffic noise in Edinburgh.*
 
-This study generated noise maps of Edinburgh and Glasgow using the [NoiseModelling v5.0.0 library] (https://noisemodelling.readthedocs.io/en/latest/). The general workflow loosely follows the steps outlined in the [Noise Map from OSM - GUI tutorial](https://noisemodelling.readthedocs.io/en/latest/Noise_Map_From_OSM_Tutorial.html), but with the additional steps of using the NDVI as a groundcover absorption proxy, traffic counts from the [Department for Transport](https://roadtraffic.dft.gov.uk/local-authorities), and including trees in the calculations. 
+This study generated noise maps of Edinburgh and Glasgow using the [NoiseModelling v5.0.0 library](https://noisemodelling.readthedocs.io/en/latest/). The general workflow loosely follows the steps outlined in the [Noise Map from OSM - GUI tutorial](https://noisemodelling.readthedocs.io/en/latest/Noise_Map_From_OSM_Tutorial.html), but with the additional steps of using the NDVI as a groundcover absorption proxy, traffic counts from the [Department for Transport](https://roadtraffic.dft.gov.uk/local-authorities), and including trees in the calculations. 
 
 All the code used to pre-process the data and calculate the Geographically Weighted Regressions (GWRs) can be found in the Environmental and Traffic Scripts and GWR scripts folders respectively. The data used are available on request from the author at issyollie@gmail.com. 
 
