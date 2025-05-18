@@ -1,6 +1,6 @@
 # An Analysis of Seasonal Vegetation and Social Disparities in Road Traffic Noise Exposure in Glasgow and Edinburgh, Scotland
 
-![Sample noise map generated for Edinburgh city centre](images/sample_noisemap.jpg)
+![Sample noise map generated for Edinburgh city centre](images/sample_noisemap_1.jpg)
 *Figure: Sample modelled seasonal road traffic noise in Edinburgh.*
 
 ### Abstract
