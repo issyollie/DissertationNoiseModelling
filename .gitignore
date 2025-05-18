@@ -1,5 +1,5 @@
 NoiseModelling_4.0.5_without_gui/
-*.yml
+.yml
 *.txt
 Edinburgh/
 Extra_Scripts/
